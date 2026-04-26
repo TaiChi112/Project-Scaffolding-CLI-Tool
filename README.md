@@ -1,5 +1,3 @@
-# `tch` — AI-Native Project Scaffolding CLI
-
 > **A dual-mode project scaffolding tool powered by Bun and Google Gemini AI.**  
 > Instantly bootstrap production-ready TypeScript / Elysia / Prisma projects — or let AI generate an entirely custom project structure from a plain-text description.
 
